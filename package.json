@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "js2xmlparser": "^3.0.0",
     "underscore": "^1.8.3"
   }
 }
